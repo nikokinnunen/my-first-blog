@@ -38,11 +38,11 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
+              Blogi by <strong>{author}</strong>. Kirjoitan tänne asioita, jotka herättävät ajatuksia,
+               mielenkiitoa sekä aika ajoin ärtymystä.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                Seuraa minua Twitterissä.
               </a>
             </p>
           </div>
